@@ -14,7 +14,7 @@ public class HelloWorld {
 		list.add(1);
 		attribute.add("attributeB");
 		list.add(2);
-		attribute.add("attri");
+		attribute.add("attriA");
 		list.add(3);
 		attribute.add("attributeB");
 		System.out.println(list);
