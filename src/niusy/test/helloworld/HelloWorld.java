@@ -12,11 +12,14 @@ public class HelloWorld {
 
 	public void getNumberOfList(){
 		list.add(1);
+		//添加
 		attribute.add("attributeK");
 		attribute.add("attributeK");
 		list.add(2);
+		//添加
 		attribute.add("attriB");
 		list.add(3);
+		//删除
 		attribute.add("attributeB");
 		System.out.println(list);
 	}
