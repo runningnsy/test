@@ -12,8 +12,8 @@ public class HelloWorld {
 
 	public void getNumberOfList(){
 		list.add(1);
-		attribute.add("attributeH");
-		attribute.add("attributeH");
+		attribute.add("attributeK");
+		attribute.add("attributeK");
 		list.add(2);
 		attribute.add("attriB");
 		list.add(3);
