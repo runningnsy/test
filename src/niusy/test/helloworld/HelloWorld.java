@@ -12,11 +12,14 @@ public class HelloWorld {
 
 	public void getNumberOfList(){
 		list.add(1);
+		//É¾³ý
 		attribute.add("attributeK");
 		attribute.add("attributeK");
+		//É¾³ý
 		list.add(2);
 		attribute.add("attriB");
 		list.add(3);
+		//É¾³ý
 		attribute.add("attributeB");
 		System.out.println(list);
 	}
