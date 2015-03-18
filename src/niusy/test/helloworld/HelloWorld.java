@@ -11,7 +11,7 @@ public class HelloWorld {
 	List<Integer> list = new ArrayList<Integer>();
 
 	public void getNumberOfList(){
-		list.add(1);
+		list.add(2);
 		//delete
 		attribute.add("attributeKD");
 		attribute.add("attributeKD");
