@@ -4,11 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * JDK新特性 
- * 可变参数测试
- * 
  * @author niusy
- *
  */
 public class VarableParameter {
 
