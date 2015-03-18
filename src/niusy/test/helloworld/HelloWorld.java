@@ -13,8 +13,8 @@ public class HelloWorld {
 	public void getNumberOfList(){
 		list.add(1);
 		//delete
-		attribute.add("attributeK");
-		attribute.add("attributeK");
+		attribute.add("attributeKG");
+		attribute.add("attributeKG");
 		//add
 		list.add(2);
 		attribute.add("attriB");
