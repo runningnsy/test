@@ -24,7 +24,7 @@ public class HelloWorld {
 		System.out.println(list);
 	}
 	public static void main(String[] args) {
-		//test2
+		//test3
 		System.out.println(str1 + str2);
 		HelloWorld hw = new HelloWorld();
 		hw.getNumberOfList();
