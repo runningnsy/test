@@ -21,6 +21,7 @@ public class HelloWorld {
 		//add
 		attribute.add("attributeB");
 		System.out.println(list);
+		System.out.println();
 	}
 	public static void main(String[] args) {
 		//test1
@@ -28,6 +29,7 @@ public class HelloWorld {
 		HelloWorld hw = new HelloWorld();
 		hw.getNumberOfList();
 		System.out.println(hw.list);
+		System.out.println();
 		//end1
 		//end2
 	}
