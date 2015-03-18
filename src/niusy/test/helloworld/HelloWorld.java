@@ -32,6 +32,7 @@ public class HelloWorld {
 		System.out.println(hw.attribute);
 		//end1
 		//end2
+		//end3
 	}
 
 }
