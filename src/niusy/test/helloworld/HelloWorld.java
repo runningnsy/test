@@ -15,7 +15,6 @@ public class HelloWorld {
 		//delete
 		attribute.add("attributeKD");
 		attribute.add("attributeKD");
-		//add
 		list.add(2);
 		attribute.add("attriB");
 		list.add(3);
